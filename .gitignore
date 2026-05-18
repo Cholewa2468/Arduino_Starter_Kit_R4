@@ -1,0 +1,5 @@
+# ignoruj folder
+./Default_Wireless_Connection
+
+# ignoruj pliki tymczasowe
+*.tmp
