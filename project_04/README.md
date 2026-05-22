@@ -1,4 +1,4 @@
-# Arduino Starter Kit R4 - Project 03 - Color Mixing Lamp
+# Arduino Starter Kit R4 - Project 04 - Color Mixing Lamp
 
 ## Decscription
 
